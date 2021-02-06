@@ -1,0 +1,2 @@
+E:\CSTS\C\work\棋盘覆盖问题\Debug\棋盘覆盖问题.exe
+E:\CSTS\C\work\棋盘覆盖问题\Debug\棋盘覆盖问题.pdb

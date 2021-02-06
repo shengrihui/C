@@ -1,0 +1,11 @@
+﻿  t0126.c
+  test0127.c
+E:\CSTS\C\demo202101\test0124\test0127.c(16,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\CSTS\C\demo202101\test0124\test0127.c(16,9): message : 请考虑在格式字符串中使用“%zd”
+E:\CSTS\C\demo202101\test0124\test0127.c(17,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\CSTS\C\demo202101\test0124\test0127.c(17,9): message : 请考虑在格式字符串中使用“%zd”
+E:\CSTS\C\demo202101\test0124\test0127.c(18,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\CSTS\C\demo202101\test0124\test0127.c(18,9): message : 请考虑在格式字符串中使用“%zd”
+  正在生成代码...
+  test01.cpp
+  test0124.vcxproj -> E:\CSTS\C\demo202101\test0124\x64\Debug\test0124.exe

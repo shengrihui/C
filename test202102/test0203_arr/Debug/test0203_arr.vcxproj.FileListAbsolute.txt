@@ -1,0 +1,2 @@
+E:\CSTS\C\test202102\test0203_arr\Debug\test0203_arr.exe
+E:\CSTS\C\test202102\test0203_arr\Debug\test0203_arr.pdb

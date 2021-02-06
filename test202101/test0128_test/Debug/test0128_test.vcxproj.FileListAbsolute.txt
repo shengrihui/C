@@ -1,0 +1,2 @@
+E:\CSTS\C\demo202101\test0128_test\Debug\test0128_test.exe
+E:\CSTS\C\demo202101\test0128_test\Debug\test0128_test.pdb
