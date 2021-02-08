@@ -1,0 +1,2 @@
+E:\CSTS\C\test202102\game0208_Mineclearance\Debug\game0208_Mineclearance.exe
+E:\CSTS\C\test202102\game0208_Mineclearance\Debug\game0208_Mineclearance.pdb
