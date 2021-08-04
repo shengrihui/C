@@ -1,3 +1,0 @@
-﻿  test.c
-E:\CSTS\C\test202102\game_threechess\test.c(60,7): warning C4013: “srand”未定义；假设外部返回 int
-  game_threechess.vcxproj -> E:\CSTS\C\test202102\game_threechess\Debug\game_threechess.exe

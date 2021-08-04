@@ -1,2 +1,0 @@
-E:\CSTS\C\test202102\game_threechess\Debug\game_threechess.exe
-E:\CSTS\C\test202102\game_threechess\Debug\game_threechess.pdb
